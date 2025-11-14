@@ -42,7 +42,18 @@
 # Setup The Bypass
 
 You'll need [mkCert](https://github.com/FiloSottile/mkcert) to start off!
+On Windows, you need a package manager like Chocolatey or Scoop
+Chocolatey:
+```bash
+$ choco install mkcert -y
+```
+Scoop:
+```bash
+# Add the extras bucket (if you haven't already):
+$ scoop bucket add extras
 
+$ scoop install mkcert
+```
 
 ## 1. From your command line, configure mkcert:
 
