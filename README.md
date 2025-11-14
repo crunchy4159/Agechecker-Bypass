@@ -85,6 +85,7 @@ Windows machines・```C:\Windows\System32\drivers\etc\hosts```
 ```bash 
 #you need to add theese 2 lines in your host file
 127.0.0.1 api.agechecker.net
+127.0.0.1 sa.agechecker.net
 127.0.0.1 localhost
 ```
 
