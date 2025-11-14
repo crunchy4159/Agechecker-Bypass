@@ -43,6 +43,7 @@
 
 You'll need [mkCert](https://github.com/FiloSottile/mkcert) to start off!
 On Windows, you need a package manager like Chocolatey or Scoop
+
 Chocolatey:
 ```bash
 $ choco install mkcert -y
